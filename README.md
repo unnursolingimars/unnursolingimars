@@ -19,7 +19,7 @@
 - Icelandic Meteorological Office – new site from the ground up
 - Smári (TR) – insurance case processing system
 - Ylja (TR) – external communication portal
-- Digital Iceland – application workflows
+- Island.is – application workflows
 - VÍS – calculators + application flows
 - Auður – external site + financial calculator
 - Origo.is – corporate site
