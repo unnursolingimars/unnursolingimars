@@ -23,6 +23,7 @@
 - VÍS – calculators + application flows
 - Auður – external site + financial calculator
 - Origo.is – corporate site
+- YouLearn.is - website for music schools in iceland
 
 ## 🧪 Quality & DX
 I care deeply about **consistency**, **testability**, and **maintainability**. I leverage Storybook for isolated UI iteration, pair it with automated regression suites, and bake accessibility checks into pipelines.
