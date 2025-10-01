@@ -1,6 +1,6 @@
 # Hi, I'm Unnur Sól 👋
 
-**Creative Frontend Engineer** at **[Origo](https://www.origo.is)** specializing in **React, Next.js, TypeScript** and **design systems** — turning complex product logic into accessible, reusable UI architectures.
+**Creative Frontend Engineer and Dev Lead** at **[Origo](https://www.origo.is)** specializing in **React, Next.js, TypeScript** and **design systems** — turning complex product logic into accessible, reusable UI architectures.
 
 > Currently: Building scalable, accessible UI platforms and design system foundations at Origo.
 
